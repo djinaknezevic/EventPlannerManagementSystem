@@ -1,0 +1,13 @@
+{
+    "name": "event planner management system",
+    "description": "web aplikacija za organizaciju događaja",
+    "require": {
+        // Lista zavisnosti vašeg projekta (opciono)
+    },
+    "autoload": {
+        // Konfiguracija za autoloading klasa (opciono)
+    },
+    "scripts": {
+        // Skripte koje se izvršavaju tokom određenih događaja (opciono)
+    }
+}
